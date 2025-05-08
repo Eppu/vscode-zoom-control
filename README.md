@@ -2,6 +2,8 @@
 
 A simple Visual Studio Code extension that allows you to control the zoom level from the status bar. This extension provides a convenient way to adjust the window zoom level without diving into settings.
 
+This was mostly build because I'm picky and don't like the way VS Code handles zooming in and out by default. I adjust my zoom levels quite often so I needed something that allowed me more precise control over it.
+
 ## Features
 
 - Status bar item showing the current zoom level
